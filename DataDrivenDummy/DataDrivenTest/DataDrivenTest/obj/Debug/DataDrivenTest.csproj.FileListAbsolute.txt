@@ -1,0 +1,14 @@
+F:\WGD\Dep 359750-CISO IAM IDF Employees\Documentation\IFE_DSI_CICD\IFE\Visual Studio Projects\DataDrivenTest\DataDrivenTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+F:\WGD\Dep 359750-CISO IAM IDF Employees\Documentation\IFE_DSI_CICD\IFE\Visual Studio Projects\DataDrivenTest\DataDrivenTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+F:\WGD\Dep 359750-CISO IAM IDF Employees\Documentation\IFE_DSI_CICD\IFE\Visual Studio Projects\DataDrivenTest\DataDrivenTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+F:\WGD\Dep 359750-CISO IAM IDF Employees\Documentation\IFE_DSI_CICD\IFE\Visual Studio Projects\DataDrivenTest\DataDrivenTest\bin\Debug\TestData.csv
+F:\WGD\Dep 359750-CISO IAM IDF Employees\Documentation\IFE_DSI_CICD\IFE\Visual Studio Projects\DataDrivenTest\DataDrivenTest\bin\Debug\DataDrivenTest.dll
+F:\WGD\Dep 359750-CISO IAM IDF Employees\Documentation\IFE_DSI_CICD\IFE\Visual Studio Projects\DataDrivenTest\DataDrivenTest\bin\Debug\DataDrivenTest.pdb
+F:\WGD\Dep 359750-CISO IAM IDF Employees\Documentation\IFE_DSI_CICD\IFE\Visual Studio Projects\DataDrivenTest\DataDrivenTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+F:\WGD\Dep 359750-CISO IAM IDF Employees\Documentation\IFE_DSI_CICD\IFE\Visual Studio Projects\DataDrivenTest\DataDrivenTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+F:\WGD\Dep 359750-CISO IAM IDF Employees\Documentation\IFE_DSI_CICD\IFE\Visual Studio Projects\DataDrivenTest\DataDrivenTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+F:\WGD\Dep 359750-CISO IAM IDF Employees\Documentation\IFE_DSI_CICD\IFE\Visual Studio Projects\DataDrivenTest\DataDrivenTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+F:\WGD\Dep 359750-CISO IAM IDF Employees\Documentation\IFE_DSI_CICD\IFE\Visual Studio Projects\DataDrivenTest\DataDrivenTest\obj\Debug\DataDrivenTest.csprojResolveAssemblyReference.cache
+F:\WGD\Dep 359750-CISO IAM IDF Employees\Documentation\IFE_DSI_CICD\IFE\Visual Studio Projects\DataDrivenTest\DataDrivenTest\obj\Debug\DataDrivenTest.csproj.CoreCompileInputs.cache
+F:\WGD\Dep 359750-CISO IAM IDF Employees\Documentation\IFE_DSI_CICD\IFE\Visual Studio Projects\DataDrivenTest\DataDrivenTest\obj\Debug\DataDrivenTest.dll
+F:\WGD\Dep 359750-CISO IAM IDF Employees\Documentation\IFE_DSI_CICD\IFE\Visual Studio Projects\DataDrivenTest\DataDrivenTest\obj\Debug\DataDrivenTest.pdb
